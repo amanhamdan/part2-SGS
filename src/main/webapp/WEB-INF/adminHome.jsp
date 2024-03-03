@@ -16,5 +16,6 @@
     <input type="text" id="newGrade" name="newGrade"><br>
     <input type="submit" value="Update Grade">
 </form>
+
 </body>
 </html>
